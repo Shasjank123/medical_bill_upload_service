@@ -3,7 +3,7 @@ Truffle Health Medical Bill upload service assessment
 
 ## Steps to be followed, to get the server running
 1. Download all the files and move them into a folder.
-2. Install node, if not already install.
+2. Install node, if not already installed.
 3. Move to the folder in terminal.
 4. Make sure express is installed.
 5. Run npm test.
