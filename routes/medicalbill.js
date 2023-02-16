@@ -16,7 +16,6 @@ router
     }
   })
   .post(async (req, res) => {
-    // Not implemented
     medicalBillsData.addmedicalBill(req.body);
     res.status(200).json(medicalBillsData.medicalbills());
   })
